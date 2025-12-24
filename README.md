@@ -33,4 +33,4 @@ Phone: (+234) 09164443604
 ---
 
 ## Links
-- GitHub Casebook: [saas-support-casebook](link-to-your-casebook-repo)
+- GitHub Casebook: [saas-support-casebook](https://github.com/dmlajiboye-ui/saas-support-casebook)
